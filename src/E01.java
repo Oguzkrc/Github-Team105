@@ -6,5 +6,9 @@ public class E01 {
 
         System.out.println("deneme branch'inde degisiklik yaptik");
 
+        System.out.println("deneme branch e01 9.satir degisiklik");
+
+
+
     }
 }
